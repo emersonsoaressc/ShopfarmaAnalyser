@@ -4,7 +4,7 @@ import pandas as pd
 from functions.ImportaRelatorios import VendasPorDatas
 
 
-st.sidebar.image('images\logo_shopfarama.png')
+#st.sidebar.image('images\logo_shopfarama.png')
 #names = ['Emerson Soares']
 #usernames = ['emerson']
 #passwords = ['123']
