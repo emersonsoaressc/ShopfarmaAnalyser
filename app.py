@@ -4,8 +4,8 @@ import pandas as pd
 from functions.ImportaRelatorios import VendasPorDatas
 from orc_lojas import HelloWorld
 
-st.write(VendasPorDatas())
 st.image('images/logo_shopfarma.png')
+st.write(VendasPorDatas())
 
 
 
