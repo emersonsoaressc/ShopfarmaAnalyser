@@ -5,7 +5,7 @@ from functions.ImportaRelatorios import VendasPorDatas
 from orc_lojas import HelloWorld
 
 st.write(HelloWorld())
-st.image('images\logo_shopfarma.png')
+st.image('images/logo_shopfarma.png')
 
 
 
