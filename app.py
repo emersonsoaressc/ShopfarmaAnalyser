@@ -1,5 +1,4 @@
 import streamlit as st 
-!pip install xlrd
 #import streamlit_authenticator as stauth
 import pandas as pd 
 from functions.ImportaRelatorios import VendasPorDatas
